@@ -9,3 +9,4 @@ export default class App {
 }
 
 const a = 100;
+const b = 200;
